@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    padding-left:3%;
+}
+.contact{
+    padding-left: 10%;
+    color:white;
+}
