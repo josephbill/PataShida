@@ -1,6 +1,6 @@
 <div class="container mr-5 pt-5">
   
-    <div class="content" style="margin-left:25%;">
+    <div class="context">
       <h2 text-align="center">Sign up</h2>
     <div class="mb-3 row " >
       <label for="name" class="col-sm-2 col-form-label">Username</label>
@@ -25,5 +25,8 @@
       <div class="col-sm-4">
         <input type="text" class="form-control" id="inputPassword" [(ngModel)]="password2" name="password2" required>
       </div>
-      <button class="btn btn-primary" type="submit" (click)="registerUser()">Sign Up</button>
+      
     </div>
+
+    <button class="btn btn-primary" type="submit" (click)="registerUser()">Sign Up</button>
+  </div>
