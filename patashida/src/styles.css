@@ -1,16 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.css";
-.context{
-    background-image: url('/patashida/src/assets/login-unsplash.jpg');
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow-x: hidden;
-    
-    
-}
-.content{
-    background-image: url('/patashida/src/assets/login-unsplash.jpg');
+body{
+    background-image: url('/patashida/src/assets/images/login-unsplash.jpg');
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;

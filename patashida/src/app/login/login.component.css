@@ -1,19 +1,11 @@
-.content{
-    background-image: url('/patashida/src/assets/login-unsplash.jpg');
-    background-position: top;
-    background-repeat: no-repeat;
-    background-size: cover;
-    overflow-x: hidden;
-    
-    
-}
 
-.content{
+
+.container{
     padding: 5%;
     padding-left: 20%;
 
     background-color: rgba(47, 133, 61, 0.7);
-}
+} 
 h2{
     padding-left:30%;
     padding-bottom: 5%;
